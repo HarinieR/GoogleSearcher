@@ -7,7 +7,7 @@ A Google searcher in python
 - Button to open the pages in the browser
 
 ## Backend
-- Used BeautifulSoup and Requests to parse html with the usual google search url
+- Used BeautifulSoup and Requests to parse html with the usual "google search url"
 
 ## GUI snapshot
 ![Alt text](https://github.com/HarinieR/GoogleSearcher/raw/master/Screenshots/Google-Searcher.png "ScreenShot")
