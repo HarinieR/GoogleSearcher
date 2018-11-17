@@ -10,3 +10,4 @@ A Google searcher in python
 - Used BeautifulSoup and Requests to parse html with the usual google search url
 
 ## GUI snapshot
+![Searcher](/Users/puppy/Pictures/Monosnap/Google Searcher.png?raw=true "Title")
