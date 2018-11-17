@@ -10,4 +10,4 @@ A Google searcher in python
 - Used BeautifulSoup and Requests to parse html with the usual google search url
 
 ## GUI snapshot
-![Searcher](/Google Searcher.png)
+<img src=“Screenshots/Google Searcher.png" height="400" alt="Screenshot"/>
